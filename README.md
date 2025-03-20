@@ -33,9 +33,5 @@ The results of the analysis were visualized using Tableau, providing an interact
 - **Tableau Public** for data visualization and creating interactive dashboards
 - **Jupyter Notebook** for organizing and documenting the SQL queries
 
----
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 
